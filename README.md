@@ -1,4 +1,4 @@
-# serenity-junit
+# Teaching automated web testing online
 
 - Câu hỏi thường gặp: https://github.com/vuthelinh/serenity-junit/wiki
 
