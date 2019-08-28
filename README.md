@@ -1,14 +1,18 @@
 # Một số thông tin về cộng đồng Automated Software Testing
-## code of conduct
-
-### Hành vi ứng xử 
+## Code of conduct
+#### Hành vi ứng xử 
 - Không bàn luận các vấn đề nhạy cảm như tôn giáo, chính trị, giới tính nhất là chủ đề 18+....
 - Không chấp nhận cho Headhunter hay HR tham gia dải job nhưng cho phép thành viên chia sẻ thông tin cơ hội việc làm
 - Không gửi các link quảng cáo, bán hàng "siêu liên kết", đa cấp.
+- Không nên có những lời nói miệt thị khả năng hay năng lực, danh dự của người khác nhất là với phụ nữ kiểu như: 
+   * Con gái mà... 
+   * Con gái thì nên làm .... cho dễ  
 
-### Nhưng việc nên làm 
+#### Nhưng việc nên làm 
 - Tránh việc bị làm phiền trong thời gian làm việc bởi các chủ đề không liên hoặc không quan tâm  qua nên thiết lập chế độ tắt notification push và setting các từ mà các bạn muốn được mentioned ( nhắc). 
   * [Q&A] [QA] đằng trước các câu hỏi
+- Các đặt câu hỏi nên rõ ràng, khuyến khích việc dùng trình quản lý issue để post và quản lý. 
+  * Issue tracker: https://github.com/Jacobvu84/Automated-Software-Testing/issue
 
 ## Teaching automated web testing online
 
