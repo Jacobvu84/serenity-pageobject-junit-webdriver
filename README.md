@@ -16,26 +16,28 @@
 
 ## Teaching automated web testing online
 
-Câu hỏi thường gặp [ở đây](https://github.com/Jacobvu84/serenity-screenplay-junit-webdriver/wiki/Câu-hỏi-thường-gặp). Hỗ trợ dạy lập trình cơ bản free khi tham gia lớp học.
-
-## Giáo trình 
-Sẽ luôn update và cập nhật theo [framework](https://github.com/serenity-bdd/serenity-core)
-
-### WebDriver  
-- Các khoá học từ basic - advanced dành cho automated testing trên web  
-	* [serenity-pageobject](https://github.com/Jacobvu84/serenity-pageobject-junit-webdriver/issues) phù hợp cho đối tượng mới bắt đầu. [Video tutorial](https://www.youtube.com/watch?v=yUXdDXBbRRI&list=PLpTCO0Fa9GR38qJ-AtT0EWJf5mDP7CXwJ&index=1)
-  * [serenity-screenplay](https://github.com/Jacobvu84/serenity-screenplay-junit-webdriver/issues) phù hợp cho đối có kinh nghiệm trên 1 năm. [Video tutorial](https://www.youtube.com/playlist?list=PLpTCO0Fa9GR1Wq7BW_MpR9ttm3Fl0s2Ik)
-  
-### Appium   
-- Các khoá học từ basic - advanced dành cho automated testing trên web  
-  * serenity-screenplay:  phù hợp cho đối có kinh nghiệm trên 1 năm. Chỉ nhận học sinh ở khu vực Hồ Chí Minh,học trực tiếp vì chưa có video.
-    
 ### Một số video free hướng dẫn cơ bản.
 - Java webdriver free [ở đây](https://www.youtube.com/playlist?list=PLpTCO0Fa9GR3ir1xpFXqSVX61SaYShspy)
 - C# webdriver free [ở đây](https://www.youtube.com/playlist?list=PLpTCO0Fa9GR1vOx_-YInGAPi8RZqpXFjZ)
 - Docker basic [ở đây](https://www.youtube.com/playlist?list=PLpTCO0Fa9GR24nAWmrYR4qt43oDwWS-Qi)
 - Xpath case study [ở đây](https://www.youtube.com/playlist?list=PLpTCO0Fa9GR3QfiFocwoj0Gvu-o16YBDa)
 
-### Others
+### Thông tin lớp học trả phí 
+
+Câu hỏi thường gặp [ở đây](https://github.com/Jacobvu84/serenity-screenplay-junit-webdriver/wiki/Câu-hỏi-thường-gặp). Hỗ trợ dạy lập trình cơ bản free khi tham gia lớp học.
+
+#### Giáo trình 
+Sẽ luôn update và cập nhật theo [framework](https://github.com/serenity-bdd/serenity-core)
+
+##### WebDriver  
+- Các khoá học từ basic - advanced dành cho automated testing trên web  
+	* [serenity-pageobject](https://github.com/Jacobvu84/serenity-pageobject-junit-webdriver/issues) phù hợp cho đối tượng mới bắt đầu. [Video tutorial](https://www.youtube.com/watch?v=yUXdDXBbRRI&list=PLpTCO0Fa9GR38qJ-AtT0EWJf5mDP7CXwJ&index=1)
+  * [serenity-screenplay](https://github.com/Jacobvu84/serenity-screenplay-junit-webdriver/issues) phù hợp cho đối có kinh nghiệm trên 1 năm. [Video tutorial](https://www.youtube.com/playlist?list=PLpTCO0Fa9GR1Wq7BW_MpR9ttm3Fl0s2Ik)
+  
+##### Appium   
+- Các khoá học từ basic - advanced dành cho automated testing trên web  
+  * serenity-screenplay:  phù hợp cho đối có kinh nghiệm trên 1 năm. Chỉ nhận học sinh ở khu vực Hồ Chí Minh,học trực tiếp vì chưa có video.
+
+##### Others
 - Automated Software Testing Fan page [ở đây](https://www.facebook.com/selenium.vietnam)
 - Skype Group [ở đây](https://join.skype.com/RhAs3UPbzxcs)
