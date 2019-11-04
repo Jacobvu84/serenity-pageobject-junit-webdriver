@@ -4,9 +4,7 @@
 - Không bàn luận các vấn đề nhạy cảm như tôn giáo, chính trị, giới tính nhất là chủ đề 18+....
 - Không chấp nhận cho Headhunter hay HR tham gia dải job nhưng cho phép thành viên chia sẻ thông tin cơ hội việc làm
 - Không gửi các link quảng cáo, bán hàng "siêu liên kết", đa cấp.
-- Không nên có những lời nói miệt thị khả năng hay năng lực, danh dự của người khác nhất là với phụ nữ kiểu như: 
-   * Con gái mà... 
-   * Con gái thì nên làm .... cho dễ  
+- Không nên có những lời nói miệt thị khả năng hay năng lực, danh dự của người khác nhất là với phụ nữ kiểu như
 
 #### Nhưng việc nên làm 
 - Tránh việc bị làm phiền trong thời gian làm việc bởi các chủ đề không liên hoặc không quan tâm  qua nên thiết lập chế độ tắt notification push và setting các từ mà các bạn muốn được mentioned ( nhắc). 
@@ -21,10 +19,6 @@
 - C# webdriver free [ở đây](https://www.youtube.com/playlist?list=PLpTCO0Fa9GR1vOx_-YInGAPi8RZqpXFjZ)
 - Docker basic [ở đây](https://www.youtube.com/playlist?list=PLpTCO0Fa9GR24nAWmrYR4qt43oDwWS-Qi)
 - Xpath case study [ở đây](https://www.youtube.com/playlist?list=PLpTCO0Fa9GR3QfiFocwoj0Gvu-o16YBDa)
-
-### Thông tin lớp học trả phí 
-
-Câu hỏi thường gặp [ở đây](https://github.com/Jacobvu84/serenity-screenplay-junit-webdriver/wiki/Câu-hỏi-thường-gặp). Hỗ trợ dạy lập trình cơ bản free khi tham gia lớp học.
 
 #### Giáo trình 
 Sẽ luôn update và cập nhật theo [framework](https://github.com/serenity-bdd/serenity-core)
